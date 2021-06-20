@@ -13,7 +13,7 @@ shayana.gois@att.net
 ### GitHub Project Information
 GitHub Username: Shygois
   
-Project Title: budget-tracket
+Project Title: budget-tracker
   
 Project Link: https://github.com/Shygois/budget-tracker
 
